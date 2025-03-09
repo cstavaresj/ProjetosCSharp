@@ -1,5 +1,5 @@
 ## ProjetosC#
 
 ### Agenda com Banco de Dados
-Projeto.
+Projeto desenvolido em linguagem C# no sotfware Microsoft Visual Studio.
  
