@@ -14,11 +14,8 @@ Este repositório contém um projeto desenvolvido em **C#** com integração ao 
 ---
 
 ## 📂 Estrutura do Repositório
-/ProjetosCSharp
-├── /AgendacomBD
-│   ├── print.png          # Imagem da interface do programa em execução
-│   ├── agenda.sql         # Arquivo SQL para criar o banco de dados
-│   └── /WindowsFormApp1   # Pasta com os arquivos do projeto (código-fonte, forms, etc.)
+
+O repositório contém uma pasta chamada `AgendacomBD`. Dentro dela, há o arquivo `print.png`, que mostra uma captura de tela do programa em execução, o arquivo `agenda.sql`, que é o script para criar o banco de dados MySQL, e a pasta `WindowsFormApp1`, onde estão todos os arquivos do projeto, incluindo o código-fonte e os forms desenvolvidos no Visual Studio.
 
 
 ---
