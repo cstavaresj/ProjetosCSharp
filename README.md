@@ -1,4 +1,4 @@
-# 📘 ProjetosCSharp
+﻿# 📘 ProjetosCSharp
 
 Este repositório contém um projeto desenvolvido em **C#** com integração ao banco de dados **MySQL**, criado no **Microsoft Visual Studio** utilizando **Windows Forms**. O projeto, chamado "Agenda com BD", é uma aplicação simples para gerenciar contatos, permitindo cadastrar, buscar, alterar e excluir informações como nome, telefone, e-mail e endereço.
 
@@ -48,3 +48,8 @@ O repositório contém uma pasta chamada `AgendacomBD`. Dentro dela, há o arqui
 3. Ou use o Git: `git clone https://github.com/cstavaresj/ProjetosCSharp.git`
 
 ---
+
+## 📸 Screenshot
+![Screenshot do Projeto](AgendacomBD/print.png)
+
+
